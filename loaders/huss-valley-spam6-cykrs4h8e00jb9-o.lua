@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/huss-valley-spam6-cykrs4h8e00jb9.lua"))()
