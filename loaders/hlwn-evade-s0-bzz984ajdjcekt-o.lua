@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/hlwn-evade-s0-bzz984ajdjcekt.lua"))()
