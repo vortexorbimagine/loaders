@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/training-anime-astral-simulator-spam4-9z8qfw3igtyv29.lua"))()
