@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/drill-to-earth-s-core-spam6-xgd9sjfsgpwbtl.lua"))()
