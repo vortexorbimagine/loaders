@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/drive-a-tuk-tuk-spam4-alkh8i9yjljujl.lua"))()
