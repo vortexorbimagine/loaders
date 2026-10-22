@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/get-your-driver-s-license-spam1-kb7ui60wjex4wd.lua"))()
